@@ -1,0 +1,18 @@
+3 content pages created via view
+
+
+
+1. product listing view, 
+path: http://localhost/hitesh_EITB/web/product-listing-view, 
+endpoint: http://localhost/hitesh_EITB/web/api/product-listing-view
+
+http://localhost/hitesh_EITB/web/entity/view/star-link-review: GET
+
+2. Star Link Review
+path: http://localhost/hitesh_EITB/web/star-link-review ,
+endpoint: http://localhost/hitesh_EITB/web/api/star-link-review ,
+
+3. Mess food review
+path: http://localhost/hitesh_EITB/web/mess-food-review,
+endpoint: http://localhost/hitesh_EITB/web/api/mess-food-review ,
+
